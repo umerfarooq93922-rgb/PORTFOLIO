@@ -1,0 +1,11 @@
+# Local SMTP credentials (DO NOT COMMIT)
+backend/mail-config.local.php
+backend/db-config.php
+
+# Environment files
+backend/.env
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
